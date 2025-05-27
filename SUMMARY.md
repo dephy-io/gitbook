@@ -62,6 +62,6 @@
 
 * [Blog](https://medium.com/@dephynetwork)
 * [GitHub](https://github.com/dephy-io)
-* [X](https://x.com/dephynetwork)
+* [X](https://x.com/intent/user?screen_name=DePHYNetwork)
 * [Telegram](https://t.me/DePHYGroup)
 * [Discord](https://discord.gg/Wbx2BAn2A4)
