@@ -65,3 +65,7 @@
 * [X](https://x.com/intent/user?screen_name=DePHYNetwork)
 * [Telegram](https://t.me/DePHYGroup)
 * [Discord](https://discord.gg/Wbx2BAn2A4)
+
+## Other Resources
+
+* [Papers](other-resources/papers.md)
