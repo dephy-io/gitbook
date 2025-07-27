@@ -8,13 +8,13 @@
 
 ## Components
 
-* [Messaging layer 🔥](components/editor/README.md)
-  * [Data Pub-Sub](components/editor/data-pub-sub.md)
-  * [Solana Integration](components/editor/solana-integration.md)
-  * [RPC Call](components/editor/rpc-call.md)
-  * [RPC Endpoints](components/editor/rpc-endpoints.md)
-  * [Best Practices](components/editor/best-practices.md)
-  * [Verifiable logs](components/editor/verifiable-logs.md)
+* [Messaging layer 🔥](components/messaging-layer/README.md)
+  * [Data Pub-Sub](components/messaging-layer/data-pub-sub.md)
+  * [Solana Integration](components/messaging-layer/solana-integration.md)
+  * [RPC Call](components/messaging-layer/rpc-call.md)
+  * [RPC Endpoints](components/messaging-layer/rpc-endpoints.md)
+  * [Best Practices](components/messaging-layer/best-practices.md)
+  * [Verifiable logs](components/messaging-layer/verifiable-logs.md)
 * [DePHY ID \[Coming Soon\]](components/dephy-id-coming-soon/README.md)
   * [Register products](components/dephy-id-coming-soon/register-products.md)
   * [Mint DID](components/dephy-id-coming-soon/mint-did.md)

@@ -12,8 +12,8 @@ DePHY ID implements a robust DID (Device Identifier) system for access control i
 
 The Messaging Layer is an event-driven communication system that provides efficient and reliable support for distributed device management and payment interactions. Leveraging a decentralized messaging protocol (Nostr) and blockchain technology (Solana) enables real-time device state synchronization, payment validation, and system scalability.
 
-{% content-ref url="../components/editor/" %}
-[editor](../components/editor/)
+{% content-ref url="../components/messaging-layer/" %}
+[messaging-layer](../components/messaging-layer/)
 {% endcontent-ref %}
 
 ## Liquidity Layer
