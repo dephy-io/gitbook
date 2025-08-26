@@ -58,6 +58,14 @@
 * [Migration From Testnet1 to Testnet2](dephy-node/migration-from-testnet1-to-testnet2.md)
 * [Node Setup FAQ](dephy-node/node-setup-faq.md)
 
+## DePHY Mining
+
+* [Stake/Unstake PHY/stPHY to a Node](dephy-mining/stake-unstake-phy-stphy-to-a-node.md)
+* [Stake PHY without a Node](dephy-mining/stake-phy-without-a-node.md)
+* [Claim Staking Reward](dephy-mining/claim-staking-reward.md)
+* [Swap from stPHY to PHY](dephy-mining/swap-from-stphy-to-phy.md)
+* [Bridge PHY token between chains](dephy-mining/bridge-phy-token-between-chains.md)
+
 ## \[DOD] DePHY Official Delegation
 
 * [🆕 DOD Introduction](dod-dephy-official-delegation/dod-introduction.md)
