@@ -58,6 +58,10 @@
 * [Migration From Testnet1 to Testnet2](dephy-node/migration-from-testnet1-to-testnet2.md)
 * [Node Setup FAQ](dephy-node/node-setup-faq.md)
 
+## \[DOD] DePHY Official Delegation
+
+* [🆕 DOD Introduction](dod-dephy-official-delegation/dod-introduction.md)
+
 ## Resources
 
 * [Blog](https://medium.com/@dephynetwork)
